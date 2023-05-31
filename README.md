@@ -9,7 +9,7 @@ Projeto "Criando um Blog com Angular" da Digital Innovation One.
 
 ## 🎨 Layout
 
-![layout-blog](https://github.com/christianebs/angular-blog/assets/108686840/867fed08-c2af-4d32-90c5-4de71f75ba06)
+![layout-blog](https://github.com/christianebs/angular-blog/assets/108686840/da2310b1-a96d-4498-ab72-cd47502b82e7)
 
 ## ℹ️ Informações
 
